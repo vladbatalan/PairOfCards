@@ -1,0 +1,4 @@
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Release\ResolveAssemblyReference.cache
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Release\Perechi_de_carti.Form1.resources
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Release\Perechi_de_carti.Properties.Resources.resources
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Release\Perechi de carti.csproj.GenerateResource.Cache

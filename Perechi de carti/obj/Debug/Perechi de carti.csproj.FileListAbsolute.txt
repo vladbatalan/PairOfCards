@@ -1,0 +1,18 @@
+D:\Proiecte\Perechi de carti\Perechi de carti\bin\Debug\Perechi de carti.exe
+D:\Proiecte\Perechi de carti\Perechi de carti\bin\Debug\Perechi de carti.pdb
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Debug\ResolveAssemblyReference.cache
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Debug\Perechi_de_carti.Form1.resources
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Debug\Perechi_de_carti.Properties.Resources.resources
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Debug\Perechi de carti.csproj.GenerateResource.Cache
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Debug\Perechi de carti.exe
+D:\Proiecte\Perechi de carti\Perechi de carti\obj\Debug\Perechi de carti.pdb
+F:\Microsoft Visual c#\Perechi de carti\Perechi de carti\obj\Debug\Perechi de carti.exe
+F:\Microsoft Visual c#\Perechi de carti\Perechi de carti\obj\Debug\Perechi de carti.pdb
+F:\Microsoft Visual c#\Perechi de carti\Perechi de carti\bin\Debug\Perechi de carti.exe
+F:\Microsoft Visual c#\Perechi de carti\Perechi de carti\bin\Debug\Perechi de carti.pdb
+F:\Microsoft Visual c#\Perechi de carti\Perechi de carti\obj\Debug\ResolveAssemblyReference.cache
+F:\Microsoft Visual c#\Perechi de carti\Perechi de carti\obj\Debug\Perechi_de_carti.Form1.resources
+F:\Microsoft Visual c#\Perechi de carti\Perechi de carti\obj\Debug\Perechi_de_carti.Properties.Resources.resources
+F:\Microsoft Visual c#\Perechi de carti\Perechi de carti\obj\Debug\Perechi de carti.csproj.GenerateResource.Cache
+D:\salvate\Vlad stick\Microsoft Visual c#\Perechi de carti\Perechi de carti\obj\Debug\Perechi de carti.exe
+D:\salvate\Vlad stick\Microsoft Visual c#\Perechi de carti\Perechi de carti\obj\Debug\Perechi de carti.pdb
